@@ -13,3 +13,7 @@ Stochastic class II, 1st class
 1. B(t) - B(s) ~ N(0,t-s), here(s<t)
 
 ## Ex 1 random walk in Matlab
+<img src="https://github.com/YueyuxiaoYang/Bownian-Motion/blob/master/img/hist_ex1.png" alt="alt text" width="50%" height="50%">
+
+## Ex2 scale the movement
+### modify Ex1 to generate the random walk sqrt(&epsilon;)Y<sub>&epsilon;t</sub>, run simulations for decreasing values of &epsilon;: &epsilon; = 1, 1e-1, 1e-2... To do that, define a new time t=&epsilon;s, for s = 0,1,...,N
